@@ -1,0 +1,108 @@
+<div class="container-fluid pdl0">
+							<!-- ngRepeat: item in choosenOrder.preparing.cart.items track by $index --><div class="row order-details__item ng-scope" ng-repeat="item in choosenOrder.preparing.cart.items track by $index">
+                                <div class="col-xs-12">
+                                    <div class="order-details-item-row media">
+                                        <div class="order-details-item-body media-body">
+                                            <div class="order-details__item-name">
+												<div class="media">
+                                                    <div class="veg-non-veg-ctn should-animate">
+                                                        <!-- ngIf: item.is_veg === 1 --><span class="veg-indicator ng-scope" ng-if="item.is_veg === 1"></span><!-- end ngIf: item.is_veg === 1 -->
+                                                        <!-- ngIf: item.is_veg === 0 || item.is_veg === 2 -->
+                                                    </div>
+
+													<div class="media-body">
+														<!-- ngIf: item.is_oos === true || item.user_marked_oos === true -->
+
+                                                        <!-- ngIf: item.is_oos === false && item.user_marked_oos === false --><span class="should-animate order-details__item-name__text ng-binding ng-scope" ng-if="item.is_oos === false &amp;&amp; item.user_marked_oos === false" id="item--57999180560_0">Bangaladumpa Vepudu</span><!-- end ngIf: item.is_oos === false && item.user_marked_oos === false -->
+
+                                                        <!-- ngIf: item.reward_type && item.reward_type.toLowerCase() === 'freebie' -->
+                                                        <!-- ngIf: item.category --><p class="order-details__item-category ng-scope" id="category-name-preparing-57999180560-57999180560_0" ng-if="item.category"><span class="text-muted ng-binding">Veg Main Course <!-- ngIf: item.sub_category && item.sub_category !== 'nota' --></span></p><!-- end ngIf: item.category -->
+
+                                                        <!-- ngIf: item.newAddons.length > 0 -->
+
+                                                        <!-- ngIf: item.newVariants.length > 0 -->
+
+                                                        <p class="order-details__item-price ng-binding">₹ 260</p>
+                                                    </div>
+												</div>
+											</div>
+
+
+
+                                            <!-- ngIf: item.alternatives && item.alternatives.length > 0 -->
+                                        </div>
+                                        <span class="order-details__item-quantity should-animate" id="item-quantity-prep-1">X<span class="ng-binding">1</span></span>
+                                    </div>
+                                </div>
+							</div><!-- end ngRepeat: item in choosenOrder.preparing.cart.items track by $index --><div class="row order-details__item ng-scope" ng-repeat="item in choosenOrder.preparing.cart.items track by $index">
+                                <div class="col-xs-12">
+                                    <div class="order-details-item-row media">
+                                        <div class="order-details-item-body media-body">
+                                            <div class="order-details__item-name">
+												<div class="media">
+                                                    <div class="veg-non-veg-ctn should-animate">
+                                                        <!-- ngIf: item.is_veg === 1 -->
+                                                        <!-- ngIf: item.is_veg === 0 || item.is_veg === 2 --><span class="non-veg-indicator ng-scope" ng-if="item.is_veg === 0 || item.is_veg === 2"></span><!-- end ngIf: item.is_veg === 0 || item.is_veg === 2 -->
+                                                    </div>
+
+													<div class="media-body">
+														<!-- ngIf: item.is_oos === true || item.user_marked_oos === true -->
+
+                                                        <!-- ngIf: item.is_oos === false && item.user_marked_oos === false --><span class="should-animate order-details__item-name__text ng-binding ng-scope" ng-if="item.is_oos === false &amp;&amp; item.user_marked_oos === false" id="item--57999180560_1">Boneless Kodi Vepudu</span><!-- end ngIf: item.is_oos === false && item.user_marked_oos === false -->
+
+                                                        <!-- ngIf: item.reward_type && item.reward_type.toLowerCase() === 'freebie' -->
+                                                        <!-- ngIf: item.category --><p class="order-details__item-category ng-scope" id="category-name-preparing-57999180560-57999180560_1" ng-if="item.category"><span class="text-muted ng-binding">Chicken Main Course <!-- ngIf: item.sub_category && item.sub_category !== 'nota' --></span></p><!-- end ngIf: item.category -->
+
+                                                        <!-- ngIf: item.newAddons.length > 0 -->
+
+                                                        <!-- ngIf: item.newVariants.length > 0 -->
+
+                                                        <p class="order-details__item-price ng-binding">₹ 340</p>
+                                                    </div>
+												</div>
+											</div>
+
+
+
+                                            <!-- ngIf: item.alternatives && item.alternatives.length > 0 -->
+                                        </div>
+                                        <span class="order-details__item-quantity should-animate" id="item-quantity-prep-1">X<span class="ng-binding">1</span></span>
+                                    </div>
+                                </div>
+							</div><!-- end ngRepeat: item in choosenOrder.preparing.cart.items track by $index --><div class="row order-details__item ng-scope" ng-repeat="item in choosenOrder.preparing.cart.items track by $index">
+                                <div class="col-xs-12">
+                                    <div class="order-details-item-row media">
+                                        <div class="order-details-item-body media-body">
+                                            <div class="order-details__item-name">
+												<div class="media">
+                                                    <div class="veg-non-veg-ctn should-animate">
+                                                        <!-- ngIf: item.is_veg === 1 --><span class="veg-indicator ng-scope" ng-if="item.is_veg === 1"></span><!-- end ngIf: item.is_veg === 1 -->
+                                                        <!-- ngIf: item.is_veg === 0 || item.is_veg === 2 -->
+                                                    </div>
+
+													<div class="media-body">
+														<!-- ngIf: item.is_oos === true || item.user_marked_oos === true -->
+
+                                                        <!-- ngIf: item.is_oos === false && item.user_marked_oos === false --><span class="should-animate order-details__item-name__text ng-binding ng-scope" ng-if="item.is_oos === false &amp;&amp; item.user_marked_oos === false" id="item--57999180560_2">Paneer Fried Rice</span><!-- end ngIf: item.is_oos === false && item.user_marked_oos === false -->
+
+                                                        <!-- ngIf: item.reward_type && item.reward_type.toLowerCase() === 'freebie' -->
+                                                        <!-- ngIf: item.category --><p class="order-details__item-category ng-scope" id="category-name-preparing-57999180560-57999180560_2" ng-if="item.category"><span class="text-muted ng-binding">Combos <!-- ngIf: item.sub_category && item.sub_category !== 'nota' --><span ng-if="item.sub_category &amp;&amp; item.sub_category !== 'nota'" class="ng-binding ng-scope"><i class="fa fa-angle-right"></i> Veg Rice</span><!-- end ngIf: item.sub_category && item.sub_category !== 'nota' --></span></p><!-- end ngIf: item.category -->
+
+                                                        <!-- ngIf: item.newAddons.length > 0 -->
+
+                                                        <!-- ngIf: item.newVariants.length > 0 -->
+
+                                                        <p class="order-details__item-price ng-binding">₹ 300</p>
+                                                    </div>
+												</div>
+											</div>
+
+
+
+                                            <!-- ngIf: item.alternatives && item.alternatives.length > 0 -->
+                                        </div>
+                                        <span class="order-details__item-quantity should-animate" id="item-quantity-prep-1">X<span class="ng-binding">1</span></span>
+                                    </div>
+                                </div>
+							</div><!-- end ngRepeat: item in choosenOrder.preparing.cart.items track by $index -->
+						</div>

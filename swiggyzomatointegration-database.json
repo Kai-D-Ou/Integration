@@ -1,0 +1,42 @@
+{
+  "paths": {
+  	"swiggy": {
+    "swiggy_dashboard_url": "https://partner.swiggy.com/orders",
+    "swiggy_order_settings_page": "https://partner.swiggy.com/settings/orders",
+    "swiggy_show_orders_toggle": "/html/body/div/div[8]/div[2]/div/div/div/div[2]/div/div/div[2]/div/div/div/div/div",
+    "swiggy_no_orders_container": "/html/body/div/div[8]/div[2]/div/div/div[2]/div/div[1]/div[2]/div/div/div/div/h2",
+    "swiggy_new_order_id_path": "/html/body/div/div[8]/div[2]/div/div/div[2]/div/div[1]/div[2]/div/div[1]/div/div/div[1]/div[1]/h3/span[1]",
+    "swiggy_new_orders_list": "/html/body/div/div[8]/div[2]/div/div/div[2]/div/div[1]/div[1]/div/div[1]/div[2]/div",
+    "swiggy_restaurant_id_code_path": "",
+    "swiggy_cash_collection_path": "",
+    "swiggy_totals_path": "/html/body/div/div[8]/div[2]/div/div/div[2]/div/div[1]/div[2]/div/div[2]/div/div[1]/div/div[4]/div/div",
+    "swiggy_grand_total_path": "/html/body/div/div[8]/div[2]/div/div/div[2]/div/div[1]/div[2]/div/div[1]/div/div/div[1]/div[1]/p/span/span",
+    "swiggy_ordered_items_list_path": "/html/body/div/div[8]/div[2]/div/div/div[2]/div/div[1]/div[2]/div/div[1]/div/div/div[2]/div/div",
+    "swiggy_accept_order_button_path": "/html/body/div/div[8]/div[2]/div/div/div[2]/div/div[1]/div[2]/div/div[1]/div/div/div[3]/div[2]/div/div[2]",
+    "swiggy_confirm_preperation_time": "",
+    "swiggy_previous_order_id_path": "/html/body/div/div[8]/div[2]/div/div/div[2]/div/div[2]/div[2]/div/div[1]/div/div/div[1]/div[1]/h3/span[1]",
+    "swiggy_cancelled_orders_info": "/html/body/div/div[8]/div[2]/div/div/div[2]/div/div[1]/div[1]/div/div[1]/div[2]/div[1]",
+    "swiggy_preparing_orders_number": "/html/body/div/div[8]/div[2]/div/div/div[1]/div/div/ul/li[3]/a/span[3]",
+    "swiggy_ready_orders_number": "/html/body/div/div[8]/div[2]/div/div/div[1]/div/div/ul/li[1]/a/span[2]",
+    "swiggy_past_orders_number": "/html/body/div/div[8]/div[2]/div/div/div[1]/div/div/ul/li[7]/a/span[3]"
+  },
+  "zomato": {
+    "zomato_dashboard_url": "https://www.zomato.com/clients/merchant_order_dashboard.php",
+    "zomato_order_confirmation_display_path": "/html/body/div[5]",
+	"zomato_cookie_check": "/html/body/div[4]/div/div[1]/header/div[1]/div/div[2]/a[3]/span",
+    "zomato_order_id_path": "/html/body/div[5]/div[1]/div/div[2]",
+    "zomato_restaurant_name_path": "/html/body/div[5]/div[1]/div/div[3]",
+    "zomato_cash_collection_path": "/html/body/div[5]/div[1]/div/div[4]/div",
+    "zomato_totals_path": "/html/body/div[5]/div[2]/div[3]/div[2]/ul[2]/li",
+    "zomato_ordered_items_list_path": "/html/body/div[5]/div[2]/div[3]/div[2]/ul[1]/li",
+    "zomato_accept_order_button_path": "/html/body/div[5]/div[3]/div/button[1]",
+    "zomato_confirm_preperation_time": "/html/body/div[7]/div[2]/div/button",
+    "zomato_logged_out_text_path": "/html/body/div[3]/div/div/div/h4",
+    "zomato_customer_name_path": "/html/body/div[5]/div[2]/div[3]/div[1]/div[1]/h5",
+    "zomato_customer_phone_path": "/html/body/div[5]/div[2]/div[3]/div[1]/div[3]",
+    "zomato_customer_otp_path": "/html/body/div[5]/div[2]/div[3]/div[1]/div[2]",
+    "zomato_customer_address_path": "/html/body/div[5]/div[2]/div[3]/div[1]/div[4]",
+    "zomato_customer_additional_info_path": "/html/body/div[5]/div[2]/div[3]/div[1]/div[5]/div"
+  }
+  }
+}

@@ -1,0 +1,28 @@
+order confirmation container xpath: /html/body/div[5]
+order cancellation container xpath: 
+
+order id: /html/body/div[5]/div[1]/div/div[2]/text()
+restaurant name: /html/body/div[5]/div[1]/div/div[3]
+cash to be collected: /html/body/div[5]/div[1]/div/div[4]/div
+
+
+
+order details: /html/body/div[5]/div[2]/div[3]/div[2]
+address: /html/body/div[5]/div[2]/div[3]/div[1]/div[1]/text()
+ordered dishes: /html/body/div[5]/div[2]/div[3]/div[2]/ul[1]/li
+
+
+
+
+accept button: /html/body/div[5]/div[3]/div/button[1]
+
+
+dashboard_url = 'https://www.zomato.com/clients/merchant_order_dashboard.php'
+order_confirmation_display_path = '/html/body/div[5]'
+order_id_path = '/html/body/div[5]/div[1]/div/div[2]'
+restaurant_name_path = '/html/body/div[5]/div[1]/div/div[3]'
+cash_collection_path = '/html/body/div[5]/div[1]/div/div[4]/div'
+totals_path = '/html/body/div[5]/div[2]/div[3]/div[2]/ul[2]/li'
+ordered_items_list_path = '/html/body/div[5]/div[2]/div[3]/div[2]/ul[1]/li'
+accept_order_button_path = '/html/body/div[5]/div[3]/div/button[1]'
+confirm_preperation_time = '/html/body/div[7]/div[2]/div/button'

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "swiggyzomatointegration",
+  "private_key_id": "ad0d4228e57cd16be55108fa2dba497f61e31eea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChyl2gxTIqfRvj\n5vPZpL5agEvi4ZzbyZGGBL4Idu10ZSGm2TJ7ApfcrSqtPMckDyrJt6Ofzw3HtHrm\n2Bk26ZW9bBcIE922MBurGbMLXa2haTGbxuQLxi9mBBYBcFcz58gmg5mw8hidqynk\nwa6OSZMyWuvTYabI0LhUKRUyoDE6zaqlZp18y01Q+ABzd9w6KHScQjhnulLffaYr\n411adYg62PY+BsnWVQUd3LKQ6jz8uriPDKI6ZwHGfDcREZuKZr2k1SirmuVpckUy\nTams643SPxRc4iCYlP+bct/wc2GHxj+QddraIuQ6auBJGxsVxWqFdTBC2FI7Dhsi\nwRWU+HjJAgMBAAECggEADq6R0QtcGlF4pLWaZuOFl6phWJEvPh28XDxVb2i1czTT\nOTQoGdQaKl83inmDu9C5ig0lZtTwE/GbnpO5NAu9+C7VJzlASy5x8FS4c/1YCpgE\ndbW2j5/4QKp5wb8rVq0/s0kJey55D+POvTDbUZO5LR5lnKzVqQ8RzydcQlgZp5OJ\nta6TUVkmvFwYP5kT5IcBgVINaIjmE9UsM3AqMJLO1S1XH8sKajHE5ryN/CLRva9i\nE6deUmbjYKp8IzJ9XIGI+jAENKX+exi6Khn6vlnvVNYkL4A09oC6MHV+AK4ydXt7\n5M22VDDyhHb18mQpUbYXjKuVFuFecg3Pe2roGGaRIQKBgQDiV/duTuMWt7o226Z5\nT5C7EDUfUSwSFrYkyMKwwaf1tPCwz7fmfD8zfe+3hXzXnTJoUP1bJAQ02J030wTt\neUrj3XTuTXoWvVGu2SlQ08XjYpH8UgjSe/SMpqrgqQ03GQPUOf0gF+27yWrjIlrU\nQb05U7y9NVe42mNrrHD4qFrG2QKBgQC2/SdXjxUuWB8UtY8N5dRtgS4HRkIJcJn2\nVgPyZSChxb8bbIPCkt1UK2TMRJbBwi+/ZODB+vfKArM3xjeda1i3mihDYOgfQnmS\nYnoAsvre/k6pqyoJq/21cSx81YPA1dVajG9RhzwXC1FODN2U0hlKlx5LMdAL3sGg\ne8COl9prcQKBgQDb6bIK5/S17t6rTDBr70VkqvOiMODL1ms0RCb9S7rf/ORaNges\nlg1l/zc4rSbF6wK93eq7cbvwiIIAajOAc3ey+0kP/BDiJSFG69G7qXa8XdoPOLk/\noJXTTl/6FeY0IUbaHVl1pCokaSdD9e4gCptKJrTbdQd9IBq20/2Tayd/yQKBgCGx\nXSQXGVxOJ3LltzBk6Ac9qN74BcK9M+wSjGl+S1LeGUEQavZRmmUcFFQ0MNn+SlJg\nXa356tQMSTl0ytq2YEB2JwG4/yR6Ve4pKbOlQOH8SzmcZYIgY/ebnghiO/8uoDkq\n8Hg/gUXw9Ih9f/Md+EAusQpBYsA8xMQq5RqcRUBRAoGACDmid/U6tERH6Fjs1y42\n1Ii3b7+EJK2O6+20j1wsrTIHywK1gZys9GSWsRNmFYIqnOjfljcUR5MgfvGEt8gl\nJyHBkAbgOTeBy+7L4JOJ5OO6qk5LeH6t2SS+N/5NzvdrvBrNd3kVTwzO2tv+kFjN\n7BZZvqtmZbjojXQ4m6RWsqM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-4r41m@swiggyzomatointegration.iam.gserviceaccount.com",
+  "client_id": "103699566868351060362",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-4r41m%40swiggyzomatointegration.iam.gserviceaccount.com"
+}
